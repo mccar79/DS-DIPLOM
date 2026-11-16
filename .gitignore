@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Папки проекта, которые не нужны в репозитории
+data/
+temp/
+
 # C extensions
 *.so
 
